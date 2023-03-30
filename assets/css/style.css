@@ -41,3 +41,44 @@ main{
 .main-texts span{
     color: var(--primary-color);
 }
+
+.main-texts p{
+    font-size: 20px;
+}
+
+.links{
+    padding: 72px;
+}
+
+.links li {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+.links a{
+    font-size: 20px;
+    padding: 16px 32px; 
+    margin: 0px 8px;
+    text-transform:uppercase;
+    border-radius: 80px;
+
+    font-family: 'Cinzel', sans-serif;
+}
+
+.btn-read-more{
+    color: #000;
+    transition: background .2S;
+}
+
+.btn-read-more:hover{
+    background-color: var(--primary-color);
+    border-radius: 80px;
+    color: var(--white-color);
+    text-decoration: none;
+}
+
+.btn-travel-now{
+    background-color: #DB2777;
+    color: var(--white-color);
+    text-decoration: none;
+}
