@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #DB2777;
+    --white-color: #fafafa;
+}
+
+li{
+    list-style: none;
+}
+
+body{
+    height: 100vh;
+
+    background: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'inter', sans-serif;
+}
+
+main{
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+
+.main-texts h1{
+    font-size: 64px;
+    font-family: 'Cinzel', sans-serif;
+}
+
+.main-texts span{
+    color: var(--primary-color);
+}
