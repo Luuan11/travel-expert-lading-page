@@ -3,7 +3,7 @@
 ![preview](https://user-images.githubusercontent.com/79935555/228990298-2935cfd0-e4d1-42e1-b09a-84f93c405e75.png)
 
 ## 💬 Sobre
-Pagina landing page simples sobre um jogo de terror.
+Pagina landing page simples sobre viagens
 
 ### 💡 Tecnologias:
 
